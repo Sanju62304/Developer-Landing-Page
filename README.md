@@ -1,0 +1,1 @@
+All of us devs,at one point or other, would have wanted to have a personal website of our own,either showcase our online presence or just because it's fun.So here, I present you a Developer Landing Page.You can use HTML,JavaScript,and CSS to complete this project.Plain CSS is recommended because that is what the lessons have covered so far.
